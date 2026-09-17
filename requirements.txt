@@ -1,0 +1,7 @@
+stream-read-xbrl
+pandas
+requests
+pdfplumber
+pytesseract
+pdf2image
+anthropic
